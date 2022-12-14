@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "awsreactutorialf72c26bd": {}
+      },
+      "api": {
+        "awsreactutorial": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
